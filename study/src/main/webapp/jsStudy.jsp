@@ -51,6 +51,7 @@
 <body>
 	
 	<h1 id="title">Javascript Example: 모달창 만들기</h1>
+	<h3>젠킨스 자동배포 프로그램 구축</h1>
 	
 	<button id="open">모달창 열기</button>
 	<div class="modal hidden">
